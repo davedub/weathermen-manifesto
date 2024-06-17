@@ -1,1 +1,0 @@
-This is a text file in the an ``Extra'' folder where you can put things that are not auto-generated as part of the project.
